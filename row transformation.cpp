@@ -26,7 +26,7 @@ int check1(char c)                                                              
 
 int getX(int x, int y,int n, int a[n][n])
 {
-     int r=a[x][y];
+     int r=a[x][y];oloololololololodfpjsadf oasfcsfcnoi
      return r;
 }
 
